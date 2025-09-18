@@ -325,15 +325,26 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+      },{id: "post-what-did-j-s-russell-see-on-edinburgh-glasgow-canal-in-1834",
         
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What Did J. S. Russell See On Edinburgh-Glasgow Canal In 1834? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+            window.open("https://emirsfadhilla.medium.com/what-did-j-s-russell-see-on-edinburgh-glasgow-canal-in-1834-1747dbd617c?source=rss-13f88dc7ad86------2", "_blank");
+          
+        },
+      },{id: "post-space-exploration-in-economics-and-policy-development-perspective",
+        
+          title: 'Space Exploration in Economics and Policy Development Perspective <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://emirsfadhilla.medium.com/space-exploration-in-economics-and-policy-development-perspective-30e313c0733c?source=rss-13f88dc7ad86------2", "_blank");
           
         },
       },{id: "post-a-post-with-redirect",
